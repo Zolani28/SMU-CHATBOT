@@ -102,4 +102,4 @@ for seconds in range(200):
         time.sleep(1)
 
 
-pip install streamlit
+
