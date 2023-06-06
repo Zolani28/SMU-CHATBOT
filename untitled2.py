@@ -101,6 +101,5 @@ for seconds in range(200):
         st.dataframe(df)
         time.sleep(1)
 
-streamlit run /usr/local/lib/python3.10/dist-packages/ipykernel_launcher.py
 
 pip install streamlit
